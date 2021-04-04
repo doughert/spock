@@ -1,0 +1,2 @@
+br/com/uol/pagseguro/service/impl/UserServiceImplTest.java
+ br.com.uol.pagseguro.service.impl.UserServiceImplTest
