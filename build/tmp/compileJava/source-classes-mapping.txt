@@ -1,14 +1,14 @@
-br/com/uol/pagseguro/exception/NotFoundException.java
- br.com.uol.pagseguro.exception.NotFoundException
-br/com/uol/pagseguro/repository/UserRepository.java
- br.com.uol.pagseguro.repository.UserRepository
-br/com/uol/pagseguro/model/User.java
- br.com.uol.pagseguro.model.User
- br.com.uol.pagseguro.model.User$UserBuilder
-br/com/uol/pagseguro/service/impl/UserServiceImpl.java
- br.com.uol.pagseguro.service.impl.UserServiceImpl
- br.com.uol.pagseguro.service.impl.UserServiceImpl$1
-br/com/uol/pagseguro/service/UserService.java
- br.com.uol.pagseguro.service.UserService
-br/com/uol/pagseguro/model/enums/JobTitle.java
- br.com.uol.pagseguro.model.enums.JobTitle
+br/com/spocktest/service/impl/UserServiceImpl.java
+ br.com.spocktest.service.impl.UserServiceImpl
+ br.com.spocktest.service.impl.UserServiceImpl$1
+br/com/spocktest/model/enums/JobTitle.java
+ br.com.spocktest.model.enums.JobTitle
+br/com/spocktest/repository/UserRepository.java
+ br.com.spocktest.repository.UserRepository
+br/com/spocktest/service/UserService.java
+ br.com.spocktest.service.UserService
+br/com/spocktest/exception/NotFoundException.java
+ br.com.spocktest.exception.NotFoundException
+br/com/spocktest/model/User.java
+ br.com.spocktest.model.User
+ br.com.spocktest.model.User$UserBuilder

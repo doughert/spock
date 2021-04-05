@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="br.com.uol.pagseguro.service.impl.UserServiceImplSpockTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-04-04T23:37:44" hostname="void" time="0.167">
-  <properties/>
-  <testcase name="should get user salary" classname="br.com.uol.pagseguro.service.impl.UserServiceImplSpockTest" time="0.167"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
