@@ -69,7 +69,7 @@ class UserServiceImplSpockTest extends Specification {
 
         where:
         jobTitle             | salary
-        JobTitle.MANAGER | "R\$ 50.000,00"
+        JobTitle.MANAGER     | "R\$ 50.000,00"
         JobTitle.COORDINATOR | "R\$ 30.000,00"
         JobTitle.SPECIALIST  | "R\$ 20.000,00"
         JobTitle.ENGINEER    | "R\$ 1.000,00"
