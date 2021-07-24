@@ -1,2 +1,0 @@
-br/com/spocktest/service/impl/UserServiceImplTest.java
- br.com.spocktest.service.impl.UserServiceImplTest
